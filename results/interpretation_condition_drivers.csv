@@ -1,0 +1,7 @@
+medical_condition,encounters,avg_billing_amount,billing_vs_global_avg,avg_length_of_stay_days,abnormal_test_rate
+Cancer,9140,25205.92,-388.71,15.5,0.338
+Obesity,9146,25859.22,264.59,15.45,0.3394
+Diabetes,9216,25714.33,119.7,15.43,0.3397
+Asthma,9095,25685.38,90.75,15.68,0.3277
+Arthritis,9218,25542.9,-51.73,15.5,0.3424
+Hypertension,9151,25559.84,-34.79,15.44,0.3253

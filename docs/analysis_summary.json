@@ -1,0 +1,57 @@
+{
+  "summary": {
+    "rows": 54966,
+    "source_columns": 21,
+    "analysis_columns": 23,
+    "date_min": "2019-05-08",
+    "date_max": "2024-05-07",
+    "billing_non_null": 54860,
+    "billing_missing": 106,
+    "avg_age": 51.53518538733035,
+    "median_age": 52.0,
+    "avg_los_days": 15.499290470472657,
+    "median_los_days": 15.0,
+    "avg_billing": 25594.63361228582,
+    "median_billing": 25593.875,
+    "medical_conditions": 6,
+    "insurance_providers": 5,
+    "admission_types": 3,
+    "test_result_classes": 3
+  },
+  "best_regression_model": "dummy_mean",
+  "best_regression_metrics": {
+    "r2": -3.410020822691706e-05,
+    "mae": 12109.429474544,
+    "rmse": 14049.102469925361
+  },
+  "best_classification_model": "decision_tree_depth_5",
+  "best_classification_metrics": {
+    "accuracy": 0.3378,
+    "macro_f1": 0.31528416058840847
+  },
+  "regression_features": [
+    "age",
+    "gender",
+    "blood_type",
+    "medical_condition",
+    "insurance_provider",
+    "admission_type",
+    "medication",
+    "test_results",
+    "length_of_stay_days",
+    "admission_year",
+    "admission_month_num"
+  ],
+  "classification_features": [
+    "age",
+    "gender",
+    "blood_type",
+    "medical_condition",
+    "insurance_provider",
+    "admission_type",
+    "medication",
+    "length_of_stay_days",
+    "admission_year",
+    "admission_month_num"
+  ]
+}

@@ -1,0 +1,8 @@
+*.ipynb linguist-documentation
+*.sql linguist-detectable=true
+*.py linguist-detectable=true
+*.md linguist-documentation
+*.csv linguist-vendored
+*.xlsx linguist-vendored
+*.pbix linguist-vendored
+*.png linguist-vendored

@@ -1,0 +1,79 @@
+{
+  "source_file": "healthcare_dataset.csv",
+  "original_rows": 55500,
+  "original_columns": 15,
+  "exact_duplicate_rows_removed": 534,
+  "cleaned_rows": 54966,
+  "cleaned_columns": 21,
+  "missing_values_original": 0,
+  "negative_billing_amounts_original": 108,
+  "negative_billing_amounts_after_dedup_set_blank": 106,
+  "hospital_names_with_trailing_punctuation_original": 4776,
+  "invalid_age_after_cleaning": 0,
+  "negative_length_of_stay_after_cleaning": 0,
+  "age_min": 13,
+  "age_max": 89,
+  "age_mean": 51.54,
+  "billing_min_clean": 9.24,
+  "billing_max_clean": 52764.28,
+  "billing_mean_clean": 25594.63,
+  "length_of_stay_min": 1,
+  "length_of_stay_max": 30,
+  "length_of_stay_mean": 15.5,
+  "category_counts": {
+    "gender": {
+      "Female": 27470,
+      "Male": 27496
+    },
+    "blood_type": {
+      "A+": 6896,
+      "A-": 6898,
+      "AB+": 6882,
+      "AB-": 6874,
+      "B+": 6885,
+      "B-": 6872,
+      "O+": 6855,
+      "O-": 6804
+    },
+    "medical_condition": {
+      "Arthritis": 9218,
+      "Asthma": 9095,
+      "Cancer": 9140,
+      "Diabetes": 9216,
+      "Hypertension": 9151,
+      "Obesity": 9146
+    },
+    "insurance_provider": {
+      "Aetna": 10822,
+      "Blue Cross": 10952,
+      "Cigna": 11139,
+      "Medicare": 11039,
+      "UnitedHealthcare": 11014
+    },
+    "admission_type": {
+      "Elective": 18473,
+      "Emergency": 18102,
+      "Urgent": 18391
+    },
+    "medication": {
+      "Aspirin": 10984,
+      "Ibuprofen": 11023,
+      "Lipitor": 11038,
+      "Paracetamol": 10965,
+      "Penicillin": 10956
+    },
+    "test_results": {
+      "Abnormal": 18437,
+      "Inconclusive": 18198,
+      "Normal": 18331
+    },
+    "age_group": {
+      "18-34": 13485,
+      "35-49": 12154,
+      "50-64": 12288,
+      "65-79": 12073,
+      "80+": 4850,
+      "Under 18": 116
+    }
+  }
+}

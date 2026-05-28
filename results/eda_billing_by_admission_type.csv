@@ -1,0 +1,4 @@
+admission_type,encounters,valid_billing_records,avg_billing_amount,median_billing_amount,avg_length_of_stay_days,abnormal_test_rate,normal_test_rate,inconclusive_test_rate
+Elective,18473,18437,25663.34,25706.75,15.51,0.3374,0.3349,0.3277
+Urgent,18391,18353,25568.44,25595.59,15.4,0.3353,0.3317,0.333
+Emergency,18102,18070,25551.13,25465.12,15.58,0.3336,0.3339,0.3326

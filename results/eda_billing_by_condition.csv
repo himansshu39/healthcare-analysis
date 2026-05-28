@@ -1,0 +1,7 @@
+medical_condition,encounters,valid_billing_records,avg_billing_amount,median_billing_amount,avg_length_of_stay_days,abnormal_test_rate,normal_test_rate,inconclusive_test_rate
+Obesity,9146,9127,25859.22,26200.51,15.45,0.3394,0.3313,0.3293
+Diabetes,9216,9197,25714.33,25681.01,15.43,0.3397,0.3321,0.3281
+Asthma,9095,9077,25685.38,25684.41,15.68,0.3277,0.3426,0.3297
+Hypertension,9151,9131,25559.84,25337.54,15.44,0.3253,0.3394,0.3353
+Arthritis,9218,9207,25542.9,25628.3,15.5,0.3424,0.3255,0.3322
+Cancer,9140,9121,25205.92,24990.11,15.5,0.338,0.3302,0.3318

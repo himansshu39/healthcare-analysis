@@ -1,0 +1,6 @@
+insurance_provider,encounters,valid_billing_records,avg_billing_amount,median_billing_amount,avg_length_of_stay_days,abnormal_test_rate,normal_test_rate,inconclusive_test_rate
+Medicare,11039,11018,25678.09,25683.36,15.62,0.339,0.333,0.328
+Blue Cross,10952,10937,25639.27,25636.54,15.51,0.3279,0.334,0.3381
+Aetna,10822,10795,25615.26,25849.06,15.44,0.333,0.3316,0.3353
+Cigna,11139,11115,25582.23,25570.93,15.48,0.3382,0.3306,0.3312
+Unitedhealthcare,11014,10995,25458.89,25273.26,15.44,0.3389,0.3382,0.3229
